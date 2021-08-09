@@ -12,7 +12,7 @@ public:
 	string name, race, sex;
 	vector<string> playerRace;
 	int health , totalHealth , maxHealth , heal ;
-	int level, current_xp, base_xp, xp_to_level, minlevel, maxlevel;
+	int level, current_xp, base_xp, xp_to_level, minlevel, maxlevel; 
 
 	//method
 	void characterCreation();

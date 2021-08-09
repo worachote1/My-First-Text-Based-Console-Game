@@ -69,7 +69,7 @@ void Character::characterCreation() {
 		if (i == 2) {
 			cout << "creating character...\n";
 			break;
-		}
+		} 
 			
 		Sleep(400);
 		system("cls");

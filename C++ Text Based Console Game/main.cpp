@@ -91,7 +91,7 @@ void Combat() {
 				if (character.level != character.xp_to_level) {
 					character.current_xp += monsterXp;
 					levelUp();
-				}
+				} 
 				Sleep(1000);
 				HUD();
 			}
